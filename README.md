@@ -1088,9 +1088,10 @@ plt.savefig('Overall Media Sentiment Based on Twitter.png')
 * Include an exported markdown version of your Notebook called  `README.md` in your GitHub repository.
 
 <h1>Observations:</h1>
-* In examining the scatter plot, it seems that all five of the news stations produce neutral tweets; however, it appears the CBSNews, NYTimes, and FoxNews have the most neutral tweets. It should be noted that this is not conclusive based on the scatter plot alone.
-* Based on the bar chart, CBS is far more positive than any of the other news stations, especially compared to CBSNews, which trends more negative.
-* Based on the last pull of tweets, NYTimes is the most negative in sentiment followed by CNN. This seems rather shocking when compared to the other outlets. 
+<ul>
+<li>In examining the scatter plot, it seems that all five of the news stations produce neutral tweets; however, it appears the CBSNews, NYTimes, and FoxNews have the most neutral tweets. It should be noted that this is not conclusive based on the scatter plot alone.</li>
+<li>Based on the bar chart, CBS is far more positive than any of the other news stations, especially compared to CBSNews, which trends more negative.</li>
+<li>Based on the last pull of tweets, NYTimes is the most negative in sentiment followed by CNN. This seems rather shocking when compared to the other outlets. </li></ul>
 
 <h3>Other considerations: </h3>
 While both the scatter plot and bar chart illustrate the sentiment of each news outlets last 100 tweets, it does not give a conclusive or holisitc image of the news outlets' tweets. A more longitudinal analysis would need to be done for more conclusive insight. 
